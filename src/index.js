@@ -11,7 +11,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <PersistGate persistor={persistor}>
       <Provider store={store}>
-        <BrowserRouter basename="/PicsWorld-Team-frontend">
+        <BrowserRouter basename="/node_front_fs_85_VladM4526">
           <App />
         </BrowserRouter>
       </Provider>
