@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/node_front_fs_85_VladM4526/static/css/main.34395e71.css",
-    "main.js": "/node_front_fs_85_VladM4526/static/js/main.e493cc95.js",
+    "main.js": "/node_front_fs_85_VladM4526/static/js/main.b35ebaf2.js",
     "static/media/set-icons.svg": "/node_front_fs_85_VladM4526/static/media/set-icons.c887209d8d1cd0a5c5dce5dda8ebbb15.svg",
     "static/media/bottle_phone_edited.png": "/node_front_fs_85_VladM4526/static/media/bottle_phone_edited.b5b424b4c983460cf839.png",
     "static/media/bottle_sign_in_desktop@1x-min.png": "/node_front_fs_85_VladM4526/static/media/bottle_sign_in_desktop@1x-min.c5cbb30ff4060e764b7e.png",
@@ -12,10 +12,10 @@
     "static/media/bottle_home_tablet@1x-min.png": "/node_front_fs_85_VladM4526/static/media/bottle_home_tablet@1x-min.4996c4e69903c9aeab08.png",
     "index.html": "/node_front_fs_85_VladM4526/index.html",
     "main.34395e71.css.map": "/node_front_fs_85_VladM4526/static/css/main.34395e71.css.map",
-    "main.e493cc95.js.map": "/node_front_fs_85_VladM4526/static/js/main.e493cc95.js.map"
+    "main.b35ebaf2.js.map": "/node_front_fs_85_VladM4526/static/js/main.b35ebaf2.js.map"
   },
   "entrypoints": [
     "static/css/main.34395e71.css",
-    "static/js/main.e493cc95.js"
+    "static/js/main.b35ebaf2.js"
   ]
 }
